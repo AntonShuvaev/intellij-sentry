@@ -1,6 +1,6 @@
 name: Feature Request
 description: Request a new feature that you would like to be part of the Sentry plugin.
-labels: "enhancement"
+labels: ["enhancement"]
 body:
   - type: textarea
     attributes:
