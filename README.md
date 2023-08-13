@@ -1,6 +1,11 @@
-# Sentry Plugin for JetBrains IDEs
+<img src="images/pluginIcon.svg" width="80" height="80" alt="icon" align="left"/>
 
-The Sentry plugin allows you to browse issues, events, and stacktraces right in your IDE.
+Sentry Plugin for JetBrains IDEs
+===
+[![Version](https://img.shields.io/jetbrains/plugin/v/22232?color=6b43fb)](https://plugins.jetbrains.com/plugin/21173-jetclient--the-ultimate-rest-client)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/22232?color=03d7dc)](https://plugins.jetbrains.com/plugin/21173-jetclient--the-ultimate-rest-client)
+
+The [Sentry](https://plugins.jetbrains.com/plugin/22232-sentry) plugin allows you to browse issues, events, and stacktraces right in your IDE.
 
 Here's what you can do with it:
 - Browse issues and events
