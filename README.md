@@ -13,3 +13,5 @@ Here's what you can do with it:
 - View stacktraces and navigate to the source code
 - Assign issues to yourself or to other users
 - Resolve, ignore, or bookmark issues
+
+<img src="images/screenshot.webp" alt="Screenshot of Sentry Plugin for JetBrains IDEs"/>
