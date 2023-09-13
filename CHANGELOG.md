@@ -1,5 +1,12 @@
 Change Log
 ----------
+## Version 1.0.5 (2023-09-13)
+### Added
+- Shortcut to toggle the stacktrace of an issue (Space)
+- Shortcut to move to the next/previous issue (Up/Down)
+### Changed
+- Switch pricing model to freemium. Now you can view issues and events for free, but to perform actions like resolving issues, you need to purchase a license.
+
 ## Version 1.0.4 (2023-07-24)
 ### Added
 - Added help link to the Sentry Auth Tokens page in the plugin settings
