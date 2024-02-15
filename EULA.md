@@ -1,4 +1,4 @@
-## IntelliJ Sentry EULA
+## Sentry Plugin EULA
 
 "Developer" means Anton Shuvaev.
 
