@@ -1,5 +1,11 @@
 Change Log
 ----------
+## Version 1.0.6 (2024-04-01)
+### Added
+- Support for IntelliJ IDEA 2024.1
+### Fixed
+- NullPointerException might occur
+
 ## Version 1.0.5 (2023-09-13)
 ### Added
 - Shortcut to toggle the stacktrace of an issue (Space)
