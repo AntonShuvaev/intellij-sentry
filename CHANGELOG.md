@@ -1,5 +1,11 @@
 Change Log
 ----------
+## Version 1.0.7 (2024-11-11)
+### Added
+- Support for IntelliJ IDEA 2024.3
+### Changed
+- The plugin is now required paid subscription
+
 ## Version 1.0.6 (2024-04-01)
 ### Added
 - Support for IntelliJ IDEA 2024.1
