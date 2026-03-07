@@ -1,5 +1,16 @@
 Change Log
 ----------
+## Version 1.0.9 (2026-03-07)
+### Fixed
+- Improved connection test validation by checking organizations and reporting a clear message when no organizations are found (including EU region URL hint, see [#17](https://github.com/AntonShuvaev/intellij-sentry/issues/17)).
+- Improved initialization robustness by separating blocking failures from warnings and allowing project loading to continue when user loading fails.
+
+## Version 1.0.8 (2025-10-06)
+### Added
+- Support for an account with multiple organizations
+### Fixed
+- Minor fixes
+
 ## Version 1.0.7 (2024-11-11)
 ### Added
 - Support for IntelliJ IDEA 2024.3
