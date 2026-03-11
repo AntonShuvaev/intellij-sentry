@@ -1,5 +1,9 @@
 Change Log
 ----------
+## Version 1.0.10 (2026-03-11)
+### Fixed
+- Fixed `NoClassDefFoundError: okhttp3.CacheControl` / `NoSuchMethodError` in `kotlin.time.Duration` caused by the OkHttp update.
+
 ## Version 1.0.9 (2026-03-07)
 ### Fixed
 - Improved connection test validation by checking organizations and reporting a clear message when no organizations are found (including EU region URL hint, see [#17](https://github.com/AntonShuvaev/intellij-sentry/issues/17)).
