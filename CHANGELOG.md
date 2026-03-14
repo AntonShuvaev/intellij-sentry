@@ -1,5 +1,9 @@
 Change Log
 ----------
+## Version 1.0.11 (2026-03-14)
+### Fixed
+- Fixed first-run initialization in new projects so saving valid Sentry settings immediately starts the client and shows the issues panel without requiring an IDE restart.
+
 ## Version 1.0.10 (2026-03-11)
 ### Fixed
 - Fixed `NoClassDefFoundError: okhttp3.CacheControl` / `NoSuchMethodError` in `kotlin.time.Duration` caused by the OkHttp update.
