@@ -1,5 +1,9 @@
 Change Log
 ----------
+## Version 1.0.12 (2026-03-23)
+### Changed
+- Updated plugin description to remove free/premium tier distinction
+
 ## Version 1.0.11 (2026-03-14)
 ### Fixed
 - Fixed first-run initialization in new projects so saving valid Sentry settings immediately starts the client and shows the issues panel without requiring an IDE restart.
